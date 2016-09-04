@@ -4,6 +4,8 @@ A hidden .git file gets created in the project. You need to do it because it giv
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The repository is everything you have committed. The working directory is the code that you currently have and the staging area is the changes you want to make to the repository in regards to the code that’s in your working directory. 
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 

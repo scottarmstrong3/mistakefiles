@@ -26,8 +26,8 @@ use them
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Because you can revert to where you were before something broke if it doesn’t work.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+Pairwise programming projects.
