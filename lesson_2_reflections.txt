@@ -9,13 +9,22 @@ The repository is everything you have committed. The working directory is the co
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can choose to commit one thing at a time and make sure those things reflect only on logical change and then reflect what that change is in your commit message.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you want to look back at features that are added or have other people understand what you have done to your project. Branches would help because you could work on your code on a branch specifically for the change you are trying to make and then commit it.
 
 How do the diagrams help you visualize the branch structure?
+
+They show you which branches are connected and where they came from
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The changes made in both of the branches from the original code is combined to the master branch. It replaces master and brings the two branches together because it becomes the new master and is no longer an independent branch. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pros are it’s much faster and usually does exactly what we want it to. Cons are that merge conflicts can be frustrating and confusing and it’s possible for things to change that the authors did not intend. 
